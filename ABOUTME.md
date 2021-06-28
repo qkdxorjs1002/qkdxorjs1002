@@ -52,7 +52,7 @@ qkdxorjs1002@gmail.com
  - [Li-Fi Keyboard](https://github.com/qkdxorjs1002/Li-Fi-Keyboard)
    - 아두이노, LED기반 무선 통신 키보드
 
-## Projects-Private
+## Projects-Personal
  - [AniSched-Desktop](https://github.com/qkdxorjs1002/AniSched-Desktop)
    - Windows / macOS 애니메이션 편성표 앱
  - [AniSched-Android](https://github.com/qkdxorjs1002/AniSched-Android)
