@@ -2,3 +2,4 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=qkdxorjs1002&locale=kr&line_height=28&show_icons=true&bg_color=10,C56CD6,3425AF&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkdxorjs1002&locale=kr&layout=compact&bg_color=10,C56CD6,3425AF&title_color=fff&text_color=fff&icon_color=fff&langs_count=10&exclude_repo=android_device_motorola_umts_spyder,android_device_motorola_omap4-common,android_device_motorola_spyder,android_kernel_motorola_omap4-common,nov_kernel_razr,proprietary_vendor_samsung_slteskt,android_device_samsung_slteskt,nov_kernel_slteskt)](https://github.com/anuraghazra/github-readme-stats)
 
 ## [About me](https://github.com/qkdxorjs1002/qkdxorjs1002/blob/main/ABOUTME.md)
+## [Gist](https://gist.github.com/qkdxorjs1002)
